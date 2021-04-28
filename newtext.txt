@@ -1,2 +1,2 @@
 This is new project
-:Wq
+Edit :Wq
